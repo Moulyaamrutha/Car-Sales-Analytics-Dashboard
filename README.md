@@ -23,7 +23,7 @@ The dataset was first cleaned and pre-processed using Python, then imported into
 ## 🏢 Internship Experience
 
 **Organization:** Codec Technologies  
-**Role:** Data Science / Data Analyst Intern  
+**Role:** Data Science Intern  
 **Work Done:**
 - Data Cleaning & Preprocessing using Python (Pandas)
 - Exploratory Data Analysis (EDA)
