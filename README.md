@@ -136,7 +136,7 @@ This dashboard enables:
 
 ## 📸 Dashboard Preview
 
-> *(Add your screenshots here)*  
+ ![image](https://github.com/Moulyaamrutha/Car-Sales-Analytics-Dashboard/blob/main/Screen_shot/Automotive_Sales_Analysis.png?raw=true)
 - Overview Dashboard  
 - Brand Performance  
 - Regional Analysis  
